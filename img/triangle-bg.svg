@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="544" viewBox="0 0 1440 544">
+    <defs>
+        <linearGradient id="a" x1="50%" x2="50%" y1="0%" y2="100%">
+            <stop offset="0%" stop-color="#22354A"/>
+            <stop offset="100%" stop-color="#101922"/>
+        </linearGradient>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <path fill="url(#a)" d="M0 0h1442v681H0z" transform="translate(-2 -88)"/>
+        <g fill-rule="nonzero" opacity=".75">
+            <path fill="#2181A9" d="M641.551-361.426L747.07 75.56 852.554 512.55 316.46 204.266l-536.06-308.25 430.575-128.704 430.576-128.738" opacity=".1" style="mix-blend-mode:screen"/>
+            <path fill="#FFF" d="M572.484 419.34l1.634-292.17 1.634-292.204 214.004 147.32 214.004 147.286L788.09 274.456 572.484 419.34" opacity=".1" style="mix-blend-mode:screen"/>
+            <path fill="#2181A9" d="M662.161 288.834L952.67 474.017l-283.471 202.03L337.903 864l-6.67-374.036-6.936-387.18 337.864 186.05z" opacity=".1" style="mix-blend-mode:screen"/>
+            <path fill="#F2F2F2" d="M401.534 310.552l80.84 484.092-418.17-178.945-418.137-178.912 337.297-305.18 337.331-305.148z" opacity=".1" style="mix-blend-mode:screen"/>
+            <path fill="#2181A9" d="M-101.644-.2l252.056-140.714 95.68 467.745 95.68 467.746L-5.964 467.545l-347.735-327.031z" opacity=".1" style="mix-blend-mode:screen"/>
+            <path fill="#FFF" d="M548.806 215.508L369.452 505.076l-179.32 289.568L71.507 520.755-47.117 246.9l297.945-15.68 297.978-15.712" opacity=".1" style="mix-blend-mode:screen"/>
+        </g>
+        <g fill-rule="nonzero" opacity=".75">
+            <path fill="#2181A9" d="M1571.094-238.54l84.399 349.66 84.372 349.662-428.796-246.677-428.77-246.65 344.398-102.985 344.397-103.01" opacity=".1" style="mix-blend-mode:screen"/>
+            <path fill="#FFF" d="M1515.85 386.2l1.308-233.784 1.307-233.81 171.172 117.879 171.171 117.853-172.505 115.93L1515.85 386.2" opacity=".1" style="mix-blend-mode:screen"/>
+            <path fill="#2181A9" d="M1587.58 281.773l232.363 148.177-226.735 161.658L1328.22 742l-5.335-299.29-5.548-309.808 270.241 148.871z" opacity=".1" style="mix-blend-mode:screen"/>
+            <path fill="#F2F2F2" d="M1379.116 299.151l64.66 387.353L1109.3 543.319 774.854 400.16l269.788-244.194 269.815-244.168z" opacity=".1" style="mix-blend-mode:screen"/>
+        </g>
+    </g>
+</svg>

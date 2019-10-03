@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+    <g fill="none" fill-rule="evenodd">
+        <path fill="#FFF" d="M-246-521h1367v2514H-246z"/>
+        <text fill="#001C42" font-family="Helvetica" font-size="30" letter-spacing=".232" transform="translate(-154 -451)">
+            <tspan x="0" y="29">ASSETS</tspan>
+        </text>
+        <g fill="#4B9FD8">
+            <path d="M12 10.609L18.609 4 20 5.391 13.391 12 20 18.609 18.609 20 12 13.391 5.391 20 4 18.609 10.609 12 4 5.391 5.391 4z"/>
+        </g>
+    </g>
+</svg>

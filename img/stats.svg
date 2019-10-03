@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1440" height="1029" viewBox="0 0 1440 1029">
+    <defs>
+        <linearGradient id="b" x1="50%" x2="50%" y1="0%" y2="100%">
+            <stop offset="0%" stop-color="#22354A"/>
+            <stop offset="100%" stop-color="#101922"/>
+        </linearGradient>
+        <path id="a" d="M0 0h1440v1029H0z"/>
+        <linearGradient id="d" x1="50%" x2="50%" y1="0%" y2="28.661%">
+            <stop offset="0%" stop-color="#101922"/>
+            <stop offset="100%" stop-color="#101A23" stop-opacity="0"/>
+        </linearGradient>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <g>
+            <mask id="c" fill="#fff">
+                <use xlink:href="#a"/>
+            </mask>
+            <use fill="url(#b)" xlink:href="#a"/>
+            <g mask="url(#c)" opacity=".463">
+                <path fill="#1A385D" d="M-1 0h1441v300H-1z"/>
+                <g fill-rule="nonzero" opacity=".75">
+                    <path fill="#2181A9" d="M1036.551 2.574L1142.07 439.56l105.485 436.988L711.46 568.266 175.4 260.016l430.575-128.704L1036.551 2.574" opacity=".1" style="mix-blend-mode:screen"/>
+                    <path fill="#FFF" d="M967.484 783.34l1.634-292.17 1.634-292.204 214.004 147.32 214.004 147.286-215.671 144.884L967.484 783.34" opacity=".1" style="mix-blend-mode:screen"/>
+                    <path fill="#2181A9" d="M1057.161 652.834l290.508 185.183-283.471 202.03L732.903 1228l-6.67-374.036-6.936-387.18 337.864 186.05z" opacity=".1" style="mix-blend-mode:screen"/>
+                    <path fill="#F2F2F2" d="M796.534 674.552l80.84 484.092-418.17-178.945L41.067 800.787l337.297-305.18 337.331-305.148z" opacity=".1" style="mix-blend-mode:screen"/>
+                    <path fill="#2181A9" d="M293.356 363.8l252.056-140.714 95.68 467.745 95.68 467.746-347.736-327.032L41.301 504.514z" opacity=".1" style="mix-blend-mode:screen"/>
+                    <path fill="#FFF" d="M943.806 579.508L764.452 869.076l-179.32 289.568-118.625-273.889L347.883 610.9l297.945-15.68 297.978-15.712" opacity=".1" style="mix-blend-mode:screen"/>
+                </g>
+            </g>
+        </g>
+        <path fill="url(#d)" d="M0 298h1440v180H0z" opacity=".404" transform="translate(-1)"/>
+        <text fill="#FFF" font-family="Helvetica" font-size="60" letter-spacing="2" transform="translate(-1)">
+            <tspan x="175.558" y="148">700,00</tspan> <tspan x="371.073" y="148">0</tspan>
+        </text>
+        <text fill="#FFF" font-family="Helvetica" font-size="28" transform="translate(-1)">
+            <tspan x="153.821" y="208">Service Appointments</tspan>
+        </text>
+        <text fill="#FFF" font-family="Helvetica" font-size="28" transform="translate(-1)">
+            <tspan x="612.821" y="208">Leads Processed</tspan>
+        </text>
+        <text fill="#FFF" font-family="Helvetica" font-size="28" transform="translate(-1)">
+            <tspan x="1030.594" y="208">Total Engagements</tspan>
+        </text>
+        <text fill="#FFF" font-family="Helvetica" font-size="60" letter-spacing="2" transform="translate(-1)">
+            <tspan x="607.058" y="148">204,80</tspan> <tspan x="802.573" y="148">3</tspan>
+        </text>
+        <text fill="#FFF" font-family="Helvetica" font-size="60" transform="translate(-1)">
+            <tspan x="1060.742" y="148">113,74</tspan> <tspan x="1135.815" y="220">8</tspan>
+        </text>
+    </g>
+</svg>

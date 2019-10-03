@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:300,400,500,600&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700&display=swap');
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+root
+{
+    --dark:#101922;
+}
+.menu,.request-demo
+{
+    flex-basis: 30%;
+}
+.logo{flex-basis: 50%;text-align: center}
+.hamburger
+{
+    width: 30px;
+    height: 30px;
+    cursor: pointer;
+}
+.header-section
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0 2em;
+}
+
+.ham
+{
+    display: flex;
+    align-items: center;
+}
+.ham i
+{
+    color: #4b9fd8;
+}
+.ham span
+{
+    padding-left: 20px;
+    height: 36px;
+    font-family: Montserrat;
+    font-size: 30px;
+    font-weight: 600;
+    line-height: 1.2;
+    letter-spacing: normal;
+    color: var(--dark);
+}
+.Company-Logo {
+   
+    object-fit: contain;
+    background-color:transparent;
+  }
+.request-demo a
+{
+    text-decoration: none;
+    font-family: Montserrat;
+    font-size: 20px;
+    font-weight: 600;
+    padding-left: 24px;
+    line-height: 1.2;
+    letter-spacing: 0.13px;
+    text-align: right;
+    color:#000;
+}
+.request-demo i 
+{
+    color:#4b9fd8;
+    cursor: pointer;
+}
